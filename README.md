@@ -1,6 +1,12 @@
 - 👋 Hi, I’m Chris from @FullstackSoftwareInnovations
-- 👀 I’m interested in desiging business logic and data structures, building React.js UIs, and solving hard problems.
-- 🌱 I’m currently learning to build more refined parsers.
+- 👀 I’m interested in :
+	- Designing business logic and data structures
+	- Building React.js UIs
+	- Solving hard problems
+	- Post-Quantum security
+- 🌱 I’m currently learning to build:
+  - Multi-platform applications using Capacitor 
+  - More refined language parsers
 - 💞️ I’m looking to collaborate on React.js component libraries
 - 📫You can reach me at chris@fullstack.software
 
